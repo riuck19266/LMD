@@ -93,7 +93,7 @@ a.navbar-brand {
 /* banner */
 
 .banner {
-	background: url(https://1.bp.blogspot.com/-pigxOlK3OhM/Xu1-oSiCRCI/AAAAAAAAAA0/2CVwIuVwz4InMaI8WzezT415h9iaCxYBwCK4BGAsYHg/w1904-h1018/banner.jpg) bottom no-repeat;
+	background: url("https://1.bp.blogspot.com/-pigxOlK3OhM/Xu1-oSiCRCI/AAAAAAAAAA0/2CVwIuVwz4InMaI8WzezT415h9iaCxYBwCK4BGAsYHg/w1904-h1018/banner.jpg") bottom no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
